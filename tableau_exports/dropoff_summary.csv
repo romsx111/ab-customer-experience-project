@@ -1,0 +1,3 @@
+Variation,total_clients,dropped_off_clients,dropoff_rate
+Control,23532,8098,0.34412714601393846
+Test,26968,8281,0.3070676357164046
