@@ -1,0 +1,3 @@
+Variation,clients_reached_confirm,clients_repeated_confirm,confirmation_repeat_rate
+Control,15434,725,0.04697421277698587
+Test,18687,2514,0.13453202761277894
